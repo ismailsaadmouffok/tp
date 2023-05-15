@@ -5,6 +5,8 @@ html{
  
     
 body{
+    min-width: 1200px;
+    height: 100%;
     background: linear-gradient(to bottom, rgb(102, 117, 148), rgba(43, 79, 236, 0.562));
 }
 
