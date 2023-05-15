@@ -5,8 +5,9 @@ html{
 
     }
     body{
+        min-width: 1200px;
         background-color: #DDC3A5;
-        height: 100vh;
+        height: 100%;
     }
     .logo{
         color: #E0A96D;
